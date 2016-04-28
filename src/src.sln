@@ -1,0 +1,26 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xapp", "E:/Qt/Project/XShows/src/xapps/xapp\xapp.vcxproj", "{81A63A86-F76D-35C6-ACA5-5E4AF767C1A7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xLoginPlugin", "E:/Qt/Project/XShows/src/xplugins/xloginplugin\xLoginPlugin.vcxproj", "{78530E24-66C4-3F59-978C-26BC448875B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81A63A86-F76D-35C6-ACA5-5E4AF767C1A7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{81A63A86-F76D-35C6-ACA5-5E4AF767C1A7}.Debug|Win32.Build.0 = Debug|Win32
+		{81A63A86-F76D-35C6-ACA5-5E4AF767C1A7}.Release|Win32.ActiveCfg = Release|Win32
+		{81A63A86-F76D-35C6-ACA5-5E4AF767C1A7}.Release|Win32.Build.0 = Release|Win32
+		{78530E24-66C4-3F59-978C-26BC448875B9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{78530E24-66C4-3F59-978C-26BC448875B9}.Debug|Win32.Build.0 = Debug|Win32
+		{78530E24-66C4-3F59-978C-26BC448875B9}.Release|Win32.ActiveCfg = Release|Win32
+		{78530E24-66C4-3F59-978C-26BC448875B9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
